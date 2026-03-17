@@ -1,0 +1,17 @@
+React 
+> Virtual DOM
+> SPA
+
+next.js
+
+
+Shadcn UI
+tailwind CSS
+
+1.
+Shadcn website
+npx shadcn@latest init
+npm- node package manager
+
+2.
+npx shadcn@latest add sonner

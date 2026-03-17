@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Local Storage Example</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background: white;
+            padding: 25px;
+            width: 320px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            background: #45a049;
+        }
+
+        .output {
+            margin-top: 15px;
+            font-size: 14px;
+            color: green;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Register</h2>
+
+    <form id="myForm">
+        <input type="text" id="username" placeholder="Username" required>
+        <input type="email" id="email" placeholder="Email" required>
+        <input type="password" id="password" placeholder="Password" required>
+        <button type="submit">Save</button>
+    </form>
+
+    <button onclick="loadData()">Load Stored Data</button>
+    <button onclick="clearData()">Clear Storage</button>
+
+    <div class="output" id="output"></div>
+</div>
+
+<script>
+    const form = document.getElementById("myForm");
+    const output = document.getElementById("output");
+
+    form.addEventListener("submit", function (e) {
+        e.preventDefault();
+
+        const submittedData = {
+            username: document.getElementById("username").value,
+            email: document.getElementById("email").value,
+            password: document.getElementById("password").value
+        };
+
+        localStorage.setItem("userData", JSON.stringify(submittedData));
+
+        output.innerHTML = "Data saved to Local Storage ✔️";
+        form.reset();
+    });
+
+    function loadData() {
+        const data = localStorage.getItem("userData");
+
+        if (data) {
+            const parsedData = JSON.parse(data);
+            output.innerHTML = `
+                <strong>Stored Data:</strong><br>
+                Username: ${parsedData.username}<br>
+                Email: ${parsedData.email}
+            `;
+        } else {
+            output.innerHTML = "No data found ❌";
+        }
+    }
+
+    function clearData() {
+        localStorage.clear();
+        output.innerHTML = "Local Storage cleared 🧹";
+    }
+</script>
+
+</body>
+</html>

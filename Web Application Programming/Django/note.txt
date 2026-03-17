@@ -1,0 +1,21 @@
+py -m pip install Django==6.0
+django-admin startproject mysite djangotutorial
+to run :python manage.py runserver
+
+Useful django commands:
+django-admin startproject demo
+python manage.py startapp myapp
+python manage.py run server
+python manage.py makemigrations 
+python manage.py migrate
+
+pip install djangorestframework
+
+
+from rest_framework.decorators import api_view
+@api_view(['POST'])
+
+extension need : SQLite3 Editor
+
+
+ 

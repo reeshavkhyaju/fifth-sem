@@ -1,0 +1,16 @@
+tailwind CSS
+firefox browser
+perplexity browser
+
+vs code : tailwind extension download
+
+
+## labsheet
+html
+box model
+flex 
+grid
+media query
+tailwind
+portfolio website
+parts

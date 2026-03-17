@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Cards - Tailwind</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+
+<body class="bg-gray-100">
+
+    <!-- HEADER -->
+    <header class="w-full bg-red-500 py-8 flex justify-center">
+        <h1 class="text-4xl md:text-5xl sm:text-2xl text-center font-extrabold text-white tracking-widest">
+            RESPONSIVE CARDS CSS
+        </h1>
+    </header>
+
+    <!-- CARDS SECTION -->
+    <!-- added 'items-stretch' so cards fill same height; grid keeps columns responsive -->
+    <section class="max-w-6xl mx-auto mt-12 px-8 py-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12 items-stretch">
+
+        <!-- CARD 1 -->
+        <!-- make card a column that stretches and spaces content so button sits at the bottom -->
+        <div class="bg-white shadow-lg rounded-xl p-8 text-center flex flex-col justify-between h-full">
+            <div class="flex justify-center">
+                <img src="twitter.png" alt="Twitter Logo" class="w-24 h-24 object-contain mx-auto mb-4">
+            </div>
+            <h3 class="text-2xl font-bold mb-2">TWITTER</h3>
+            <p class="text-gray-600 mb-4">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            </p>
+            <a href="#" class="mt-4 w-full md:w-auto inline-block px-6 py-3 bg-blue-500 text-white rounded-full font-semibold">
+                READ MORE
+            </a>
+        </div>
+
+        <!-- CARD 2 -->
+        <div class="bg-white shadow-lg rounded-xl p-8 text-center flex flex-col justify-between h-full">
+            <div class="flex justify-center">
+                <img src="instagram.png" alt="Instagram Logo" class="w-24 h-24 object-contain mx-auto mb-4">
+            </div>
+            <h3 class="text-2xl font-bold mb-2">INSTAGRAM</h3>
+            <p class="text-gray-600 mb-4">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            </p>
+            <a href="#" class="mt-4 w-full md:w-auto inline-block px-6 py-3 bg-blue-500 text-white rounded-full font-semibold">
+                READ MORE
+            </a>
+        </div>
+
+        <!-- CARD 3 -->
+        <div class="bg-white shadow-lg rounded-xl p-8 text-center flex flex-col justify-between h-full">
+            <div class="flex justify-center">
+                <img src="youtube.png" alt="YouTube Logo" class="w-24 h-24 object-contain mx-auto mb-4">
+            </div>
+            <h3 class="text-2xl font-bold mb-2">YOUTUBE</h3>
+            <p class="text-gray-600 mb-4">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            </p>
+            <a href="#" class="mt-4 w-full md:w-auto inline-block px-6 py-3 bg-blue-500 text-white rounded-full font-semibold">
+                READ MORE
+            </a>
+        </div>
+    </section>
+</body>
+</html>
