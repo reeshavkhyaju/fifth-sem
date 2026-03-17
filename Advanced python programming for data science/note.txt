@@ -1,0 +1,15 @@
+extension on vs code
+1.sql viewer
+2.sql lite -- i had download
+
+mongo db compass software with supporting guide pdf
+pymongo ----- bata gara
+
+write python program that reads a large text file and divied the data into chunks and process it using a generator.
+
+Data Wrangling
+what is data Wrangling.
+and what is data merging and data joining.
+
+Like vs code sodtware : google collab is best for python
+in google collab , it has python features pre-built unlike in the vs code.

@@ -1,0 +1,634 @@
+player_id,player_name,club,position,overall_rating,market_value_million_eur
+4,Player_4,Manchester City,LW,90,164.29
+6,Player_6,Manchester City,CM,92,98.51
+15,Player_15,Liverpool,CM,87,142.19
+18,Player_18,PSG,RB,91,0.79
+20,Player_20,Liverpool,CM,92,52.77
+21,Player_21,Real Madrid,RW,93,156.13
+31,Player_31,Real Madrid,RB,91,84.02
+35,Player_35,FC Barcelona,CM,87,152.24
+39,Player_39,Juventus,CDM,93,61.84
+43,Player_43,Bayern Munich,CDM,93,58.33
+44,Player_44,Manchester City,CDM,85,58.84
+47,Player_47,PSG,CB,85,36.92
+48,Player_48,Liverpool,ST,92,164.33
+54,Player_54,Juventus,RB,85,26.54
+57,Player_57,Bayern Munich,LB,90,120.14
+62,Player_62,FC Barcelona,GK,85,77.88
+68,Player_68,PSG,LB,93,171.2
+69,Player_69,Manchester City,CM,92,116.45
+80,Player_80,Juventus,LW,92,22.96
+81,Player_81,Bayern Munich,CB,91,164.45
+88,Player_88,Bayern Munich,CDM,92,77.71
+92,Player_92,Liverpool,RB,88,173.24
+97,Player_97,Liverpool,CB,89,3.19
+102,Player_102,FC Barcelona,RB,85,8.56
+105,Player_105,Juventus,GK,90,159.8
+106,Player_106,Manchester City,ST,92,99.07
+107,Player_107,Real Madrid,CB,86,170.4
+110,Player_110,Bayern Munich,CB,85,53.12
+113,Player_113,Real Madrid,ST,94,111.46
+114,Player_114,Manchester City,RW,91,69.29
+117,Player_117,Bayern Munich,RB,90,82.69
+122,Player_122,Real Madrid,RB,91,96.48
+128,Player_128,Manchester City,ST,92,83.72
+132,Player_132,Real Madrid,CM,86,71.14
+135,Player_135,Bayern Munich,GK,92,120.21
+142,Player_142,Real Madrid,LB,86,149.41
+147,Player_147,PSG,LW,92,101.81
+163,Player_163,Bayern Munich,LW,90,26.46
+164,Player_164,Juventus,CM,92,71.77
+171,Player_171,Real Madrid,CDM,91,174.83
+174,Player_174,FC Barcelona,CB,88,140.31
+185,Player_185,Bayern Munich,RW,94,128.15
+186,Player_186,Liverpool,RW,92,75.52
+190,Player_190,Real Madrid,CDM,88,2.06
+191,Player_191,FC Barcelona,CB,86,2.22
+199,Player_199,Liverpool,CDM,89,94.08
+201,Player_201,Manchester City,CM,86,22.65
+206,Player_206,Bayern Munich,LB,93,67.88
+212,Player_212,PSG,ST,91,162.36
+221,Player_221,Real Madrid,CM,90,86.56
+247,Player_247,Juventus,RW,92,157.77
+248,Player_248,FC Barcelona,GK,88,0.67
+256,Player_256,Juventus,LW,94,10.5
+259,Player_259,PSG,GK,88,111.96
+260,Player_260,FC Barcelona,LB,89,111.73
+264,Player_264,Bayern Munich,RW,88,175.4
+266,Player_266,Liverpool,CDM,87,47.66
+267,Player_267,Manchester City,LW,90,15.72
+271,Player_271,PSG,LW,92,126.92
+274,Player_274,Manchester City,GK,92,50.29
+277,Player_277,Liverpool,CDM,92,2.66
+280,Player_280,Juventus,LB,86,119.61
+286,Player_286,FC Barcelona,ST,89,113.2
+289,Player_289,Manchester City,CB,90,108.92
+294,Player_294,Real Madrid,LB,90,163.51
+296,Player_296,PSG,LW,86,13.0
+298,Player_298,PSG,RB,85,26.53
+303,Player_303,Real Madrid,LW,91,108.98
+305,Player_305,PSG,RB,88,133.14
+315,Player_315,Juventus,GK,85,43.71
+321,Player_321,Liverpool,RB,85,104.89
+323,Player_323,Liverpool,LB,87,51.4
+327,Player_327,Liverpool,LB,85,143.83
+328,Player_328,Juventus,CDM,90,128.99
+329,Player_329,FC Barcelona,CDM,91,56.07
+336,Player_336,Juventus,CM,87,69.96
+337,Player_337,Real Madrid,CM,92,173.7
+349,Player_349,Real Madrid,LB,91,28.92
+356,Player_356,FC Barcelona,ST,88,60.18
+362,Player_362,Real Madrid,ST,94,120.96
+377,Player_377,PSG,GK,92,34.65
+380,Player_380,Liverpool,CDM,86,74.49
+381,Player_381,Bayern Munich,RB,94,167.8
+382,Player_382,Bayern Munich,LB,87,54.64
+386,Player_386,Liverpool,CB,92,126.5
+393,Player_393,Juventus,GK,90,79.25
+394,Player_394,Liverpool,RW,87,176.8
+395,Player_395,PSG,ST,87,155.23
+396,Player_396,PSG,ST,89,139.08
+399,Player_399,Bayern Munich,RW,94,133.87
+400,Player_400,Manchester City,GK,85,109.14
+402,Player_402,Juventus,RW,92,29.61
+404,Player_404,PSG,CB,90,101.69
+406,Player_406,Liverpool,CM,92,119.69
+407,Player_407,Manchester City,CM,91,43.71
+410,Player_410,Bayern Munich,RB,93,84.14
+412,Player_412,Real Madrid,LB,94,7.96
+413,Player_413,Liverpool,CB,89,74.82
+415,Player_415,Liverpool,CDM,94,157.42
+421,Player_421,Manchester City,RW,90,63.7
+428,Player_428,Juventus,ST,94,45.9
+436,Player_436,FC Barcelona,CDM,89,56.53
+442,Player_442,Juventus,RB,90,84.15
+446,Player_446,Bayern Munich,CDM,91,148.23
+458,Player_458,FC Barcelona,ST,88,103.92
+462,Player_462,FC Barcelona,ST,85,178.38
+464,Player_464,Real Madrid,GK,85,135.4
+467,Player_467,Juventus,CB,87,168.0
+468,Player_468,Liverpool,RW,94,88.05
+469,Player_469,Manchester City,CM,90,113.38
+471,Player_471,Juventus,CDM,94,91.14
+475,Player_475,Bayern Munich,CB,86,21.8
+476,Player_476,FC Barcelona,LW,94,126.21
+477,Player_477,PSG,LW,94,126.65
+478,Player_478,FC Barcelona,LB,87,98.95
+484,Player_484,Juventus,LB,92,0.9
+489,Player_489,Real Madrid,GK,88,110.14
+494,Player_494,Bayern Munich,CDM,87,158.95
+504,Player_504,FC Barcelona,LB,88,128.8
+505,Player_505,PSG,CM,85,50.89
+507,Player_507,PSG,GK,88,52.11
+508,Player_508,Juventus,ST,92,23.63
+511,Player_511,PSG,CDM,90,27.53
+512,Player_512,Liverpool,LW,91,19.4
+517,Player_517,Liverpool,ST,86,141.67
+518,Player_518,Juventus,CM,92,164.33
+525,Player_525,Juventus,LW,92,90.17
+528,Player_528,Bayern Munich,CB,88,174.7
+536,Player_536,Manchester City,RW,89,172.13
+539,Player_539,Manchester City,RW,88,45.06
+548,Player_548,Bayern Munich,ST,90,60.13
+549,Player_549,Bayern Munich,CM,87,62.51
+551,Player_551,Liverpool,RW,89,162.46
+553,Player_553,Real Madrid,GK,88,11.58
+556,Player_556,Bayern Munich,RB,88,159.73
+558,Player_558,Liverpool,CM,88,44.98
+559,Player_559,FC Barcelona,RB,89,134.8
+561,Player_561,Manchester City,RW,85,101.92
+563,Player_563,Manchester City,GK,85,32.09
+564,Player_564,FC Barcelona,CDM,86,51.08
+565,Player_565,Bayern Munich,RB,89,37.63
+566,Player_566,Manchester City,CB,89,174.87
+573,Player_573,FC Barcelona,ST,88,179.7
+575,Player_575,Manchester City,RB,86,16.27
+578,Player_578,Real Madrid,ST,91,75.31
+582,Player_582,Manchester City,CM,88,83.59
+583,Player_583,PSG,LW,94,116.65
+586,Player_586,Real Madrid,LB,90,156.57
+594,Player_594,FC Barcelona,GK,93,2.85
+601,Player_601,Real Madrid,CB,89,164.42
+604,Player_604,Liverpool,RB,88,55.6
+606,Player_606,PSG,LB,85,157.22
+612,Player_612,PSG,RB,86,101.44
+617,Player_617,Manchester City,CM,94,44.13
+627,Player_627,Real Madrid,CB,91,40.52
+630,Player_630,Liverpool,CB,88,38.68
+631,Player_631,Liverpool,CM,93,27.38
+638,Player_638,Manchester City,ST,88,153.02
+645,Player_645,Manchester City,CB,86,164.58
+650,Player_650,Real Madrid,LB,85,142.86
+653,Player_653,Juventus,CB,90,66.46
+654,Player_654,Juventus,RW,94,91.54
+660,Player_660,Juventus,CDM,91,22.91
+663,Player_663,Liverpool,RB,87,40.04
+671,Player_671,PSG,RW,87,44.85
+682,Player_682,Juventus,ST,93,176.66
+684,Player_684,Real Madrid,LB,93,8.59
+685,Player_685,Liverpool,CB,92,103.43
+694,Player_694,Liverpool,GK,88,103.29
+700,Player_700,PSG,LW,92,131.4
+701,Player_701,Manchester City,CDM,90,42.3
+709,Player_709,Real Madrid,CDM,88,125.52
+711,Player_711,FC Barcelona,CB,85,89.26
+714,Player_714,Juventus,CDM,88,144.06
+718,Player_718,Real Madrid,CDM,85,57.06
+728,Player_728,FC Barcelona,CB,85,26.9
+746,Player_746,Liverpool,GK,91,105.99
+747,Player_747,PSG,GK,89,40.74
+748,Player_748,Real Madrid,CB,85,106.04
+749,Player_749,Liverpool,CM,93,147.6
+759,Player_759,PSG,CB,88,138.73
+770,Player_770,Juventus,CDM,91,121.34
+771,Player_771,Real Madrid,LB,94,32.47
+773,Player_773,Real Madrid,GK,93,61.41
+777,Player_777,Liverpool,CDM,93,127.72
+779,Player_779,Manchester City,LB,90,80.72
+781,Player_781,Liverpool,GK,89,71.76
+782,Player_782,Juventus,CB,90,78.44
+784,Player_784,FC Barcelona,CB,94,140.33
+785,Player_785,Liverpool,CB,88,138.64
+788,Player_788,FC Barcelona,LW,87,176.81
+790,Player_790,FC Barcelona,LW,85,153.46
+795,Player_795,Liverpool,RB,92,33.75
+800,Player_800,Liverpool,ST,88,104.24
+803,Player_803,Bayern Munich,GK,92,156.96
+807,Player_807,Manchester City,CB,90,126.74
+811,Player_811,Liverpool,RB,85,101.42
+816,Player_816,Real Madrid,CB,88,94.49
+817,Player_817,Real Madrid,GK,91,156.66
+823,Player_823,Liverpool,RW,94,161.44
+824,Player_824,Manchester City,LW,92,164.25
+828,Player_828,FC Barcelona,LW,85,136.68
+832,Player_832,Bayern Munich,RW,93,149.7
+837,Player_837,Manchester City,LW,88,106.54
+841,Player_841,PSG,CM,85,115.39
+850,Player_850,PSG,GK,85,173.26
+851,Player_851,Bayern Munich,LB,94,57.83
+860,Player_860,Bayern Munich,CDM,88,67.68
+861,Player_861,Liverpool,CDM,91,159.2
+862,Player_862,Real Madrid,CM,91,120.35
+867,Player_867,Liverpool,CDM,94,135.17
+876,Player_876,Bayern Munich,LB,94,96.6
+878,Player_878,Juventus,CB,87,39.54
+879,Player_879,Manchester City,CDM,89,128.3
+881,Player_881,Juventus,RW,92,48.51
+882,Player_882,Manchester City,GK,85,42.39
+888,Player_888,Juventus,RW,90,112.0
+897,Player_897,Real Madrid,LW,88,179.67
+899,Player_899,Real Madrid,LB,88,62.22
+903,Player_903,Bayern Munich,ST,90,68.84
+906,Player_906,Real Madrid,GK,92,24.84
+907,Player_907,Manchester City,ST,93,66.01
+921,Player_921,Liverpool,GK,87,175.42
+925,Player_925,Real Madrid,RW,94,168.66
+935,Player_935,Manchester City,ST,90,78.69
+939,Player_939,Juventus,LW,85,111.68
+946,Player_946,Liverpool,LW,86,72.02
+947,Player_947,Manchester City,RW,86,5.2
+952,Player_952,Juventus,CM,89,4.49
+966,Player_966,Manchester City,RB,85,98.11
+967,Player_967,FC Barcelona,GK,86,161.99
+969,Player_969,Juventus,CDM,85,8.36
+970,Player_970,Real Madrid,LB,92,124.9
+971,Player_971,Manchester City,CB,90,90.98
+975,Player_975,Juventus,RW,93,176.68
+994,Player_994,FC Barcelona,RB,93,156.75
+995,Player_995,FC Barcelona,LW,87,52.69
+996,Player_996,Liverpool,GK,87,145.37
+1002,Player_1002,Manchester City,RW,88,3.84
+1003,Player_1003,Manchester City,CDM,90,120.08
+1004,Player_1004,Bayern Munich,RB,89,106.0
+1008,Player_1008,Juventus,RW,89,149.54
+1009,Player_1009,Juventus,LW,93,137.14
+1011,Player_1011,Liverpool,GK,86,114.99
+1021,Player_1021,Manchester City,CDM,90,73.2
+1022,Player_1022,Real Madrid,CDM,87,92.54
+1024,Player_1024,Bayern Munich,CDM,87,86.0
+1033,Player_1033,Real Madrid,ST,88,178.05
+1036,Player_1036,Bayern Munich,CB,85,122.76
+1038,Player_1038,Juventus,ST,88,9.74
+1045,Player_1045,Juventus,RB,94,149.06
+1048,Player_1048,Juventus,CB,85,142.9
+1052,Player_1052,Juventus,LB,91,19.17
+1056,Player_1056,Liverpool,LB,91,88.0
+1057,Player_1057,Manchester City,LB,85,20.43
+1070,Player_1070,Juventus,RW,87,24.45
+1073,Player_1073,Liverpool,CB,86,77.12
+1076,Player_1076,Real Madrid,CB,86,47.03
+1077,Player_1077,Juventus,LB,87,125.9
+1079,Player_1079,PSG,RW,92,148.25
+1094,Player_1094,Bayern Munich,CDM,92,76.99
+1097,Player_1097,PSG,CB,88,6.56
+1099,Player_1099,PSG,LB,90,107.17
+1105,Player_1105,Liverpool,LW,92,0.72
+1110,Player_1110,Liverpool,RW,88,80.79
+1111,Player_1111,Bayern Munich,RB,89,171.1
+1112,Player_1112,Manchester City,RW,85,38.34
+1114,Player_1114,Real Madrid,ST,92,43.92
+1115,Player_1115,Bayern Munich,CDM,88,99.55
+1122,Player_1122,PSG,CDM,86,92.16
+1128,Player_1128,Manchester City,CM,88,169.8
+1129,Player_1129,Manchester City,ST,86,18.53
+1131,Player_1131,Liverpool,CM,93,143.34
+1135,Player_1135,FC Barcelona,RB,92,175.54
+1140,Player_1140,Real Madrid,CDM,90,85.98
+1143,Player_1143,Juventus,ST,88,41.16
+1145,Player_1145,Manchester City,RB,88,110.98
+1156,Player_1156,Real Madrid,LW,94,68.54
+1165,Player_1165,FC Barcelona,CM,85,29.61
+1168,Player_1168,Juventus,LW,86,173.16
+1171,Player_1171,Bayern Munich,GK,90,21.42
+1175,Player_1175,Real Madrid,ST,94,26.07
+1176,Player_1176,Real Madrid,RW,87,7.61
+1180,Player_1180,Liverpool,GK,93,34.16
+1182,Player_1182,Bayern Munich,RW,92,112.76
+1186,Player_1186,Manchester City,LB,89,152.02
+1193,Player_1193,Real Madrid,RB,88,88.84
+1195,Player_1195,Juventus,CB,88,104.98
+1204,Player_1204,Real Madrid,GK,88,79.29
+1211,Player_1211,Real Madrid,LW,87,169.75
+1213,Player_1213,Real Madrid,ST,89,90.26
+1223,Player_1223,Liverpool,CDM,87,144.29
+1224,Player_1224,Real Madrid,LB,85,88.89
+1229,Player_1229,Liverpool,ST,90,103.67
+1232,Player_1232,PSG,CDM,93,50.62
+1237,Player_1237,Real Madrid,CM,87,85.91
+1241,Player_1241,Liverpool,RB,90,179.15
+1248,Player_1248,FC Barcelona,GK,85,175.88
+1249,Player_1249,PSG,ST,90,175.39
+1250,Player_1250,Real Madrid,CB,85,23.2
+1252,Player_1252,Manchester City,RW,89,144.61
+1268,Player_1268,PSG,ST,86,66.29
+1269,Player_1269,Real Madrid,CDM,88,23.24
+1272,Player_1272,PSG,ST,87,82.46
+1275,Player_1275,Manchester City,RB,93,116.0
+1276,Player_1276,Real Madrid,CM,91,165.91
+1277,Player_1277,Juventus,GK,88,54.34
+1279,Player_1279,Liverpool,GK,85,169.27
+1283,Player_1283,PSG,CM,88,15.9
+1285,Player_1285,PSG,LB,94,112.09
+1289,Player_1289,Bayern Munich,CDM,86,19.23
+1292,Player_1292,Liverpool,GK,85,59.52
+1299,Player_1299,Liverpool,RB,93,168.43
+1306,Player_1306,Juventus,GK,93,42.69
+1307,Player_1307,Bayern Munich,RW,93,100.8
+1310,Player_1310,FC Barcelona,CB,85,28.14
+1314,Player_1314,Real Madrid,RW,94,110.02
+1322,Player_1322,PSG,LW,88,164.7
+1329,Player_1329,Liverpool,CB,85,37.1
+1336,Player_1336,Juventus,LW,90,49.75
+1339,Player_1339,PSG,CB,87,24.13
+1350,Player_1350,Juventus,RW,87,67.21
+1357,Player_1357,Juventus,CM,92,116.84
+1360,Player_1360,PSG,GK,87,97.0
+1364,Player_1364,Liverpool,CDM,85,51.85
+1370,Player_1370,Bayern Munich,ST,94,66.94
+1372,Player_1372,Bayern Munich,CB,87,50.63
+1375,Player_1375,FC Barcelona,CM,92,102.47
+1378,Player_1378,Real Madrid,LB,86,1.22
+1381,Player_1381,PSG,ST,89,127.1
+1382,Player_1382,Manchester City,CB,93,87.56
+1383,Player_1383,FC Barcelona,RW,93,29.89
+1387,Player_1387,PSG,RB,92,160.51
+1388,Player_1388,Juventus,CDM,87,62.69
+1394,Player_1394,Bayern Munich,CB,90,12.22
+1395,Player_1395,Liverpool,CB,92,142.96
+1403,Player_1403,Real Madrid,CDM,86,72.21
+1412,Player_1412,Bayern Munich,CB,87,76.36
+1417,Player_1417,Manchester City,CDM,87,54.87
+1418,Player_1418,Bayern Munich,ST,94,140.39
+1430,Player_1430,Manchester City,CDM,87,81.34
+1431,Player_1431,Liverpool,LW,86,147.34
+1436,Player_1436,Bayern Munich,LB,89,91.76
+1438,Player_1438,FC Barcelona,CDM,89,8.53
+1439,Player_1439,Liverpool,RW,87,128.98
+1440,Player_1440,PSG,CM,90,137.06
+1450,Player_1450,Real Madrid,GK,90,60.77
+1455,Player_1455,Bayern Munich,CM,85,111.04
+1459,Player_1459,Manchester City,LB,89,179.91
+1460,Player_1460,Juventus,RB,85,104.62
+1466,Player_1466,Liverpool,RW,90,96.4
+1467,Player_1467,Manchester City,CB,94,175.72
+1468,Player_1468,Real Madrid,RW,91,176.81
+1473,Player_1473,Real Madrid,CB,91,135.23
+1480,Player_1480,FC Barcelona,LW,88,65.78
+1488,Player_1488,Juventus,RW,93,81.64
+1493,Player_1493,PSG,CDM,86,88.05
+1496,Player_1496,Real Madrid,GK,92,70.75
+1497,Player_1497,Liverpool,LW,92,2.94
+1500,Player_1500,Manchester City,LB,91,123.91
+1502,Player_1502,Bayern Munich,LW,88,58.89
+1511,Player_1511,Liverpool,RB,91,112.68
+1516,Player_1516,Manchester City,RW,86,116.53
+1522,Player_1522,PSG,RB,89,75.1
+1529,Player_1529,PSG,ST,91,129.19
+1541,Player_1541,Liverpool,RB,89,48.91
+1543,Player_1543,Liverpool,ST,85,78.84
+1549,Player_1549,PSG,GK,87,106.72
+1550,Player_1550,Bayern Munich,CB,88,64.63
+1553,Player_1553,Liverpool,CDM,94,165.27
+1559,Player_1559,Juventus,CB,90,163.62
+1560,Player_1560,Bayern Munich,CM,90,49.56
+1565,Player_1565,Juventus,LB,92,108.17
+1574,Player_1574,Real Madrid,LB,93,87.39
+1575,Player_1575,Real Madrid,LB,86,56.15
+1576,Player_1576,FC Barcelona,RB,90,167.51
+1581,Player_1581,Manchester City,LB,92,65.84
+1590,Player_1590,FC Barcelona,CM,89,149.27
+1591,Player_1591,PSG,CDM,88,164.22
+1594,Player_1594,Real Madrid,RB,85,109.36
+1601,Player_1601,Bayern Munich,GK,91,35.22
+1606,Player_1606,Real Madrid,CB,90,37.02
+1616,Player_1616,Bayern Munich,ST,93,3.1
+1620,Player_1620,Manchester City,ST,92,103.92
+1621,Player_1621,Juventus,LW,93,80.68
+1623,Player_1623,Bayern Munich,ST,94,150.12
+1628,Player_1628,Juventus,CB,90,77.6
+1630,Player_1630,PSG,CDM,87,103.55
+1637,Player_1637,PSG,GK,93,57.55
+1640,Player_1640,Real Madrid,CB,93,58.74
+1645,Player_1645,Bayern Munich,RB,90,77.28
+1654,Player_1654,Liverpool,RB,88,111.03
+1657,Player_1657,Manchester City,CB,89,41.34
+1658,Player_1658,Bayern Munich,CM,88,160.33
+1660,Player_1660,Juventus,LB,92,65.55
+1665,Player_1665,Real Madrid,CM,87,24.97
+1671,Player_1671,Liverpool,CB,90,32.85
+1673,Player_1673,Juventus,ST,90,119.61
+1675,Player_1675,Liverpool,LW,91,8.63
+1677,Player_1677,PSG,LB,94,40.5
+1679,Player_1679,Bayern Munich,CB,88,123.81
+1692,Player_1692,Manchester City,CM,93,113.37
+1699,Player_1699,Real Madrid,GK,92,46.1
+1706,Player_1706,PSG,CB,86,137.54
+1709,Player_1709,PSG,RW,92,141.04
+1711,Player_1711,Real Madrid,LW,94,46.13
+1715,Player_1715,PSG,CB,87,132.95
+1721,Player_1721,FC Barcelona,ST,93,64.56
+1725,Player_1725,Juventus,ST,85,105.85
+1726,Player_1726,Liverpool,CM,85,35.43
+1738,Player_1738,Juventus,RB,89,75.48
+1746,Player_1746,Real Madrid,CDM,85,114.47
+1748,Player_1748,Juventus,RB,89,129.87
+1749,Player_1749,Bayern Munich,ST,87,168.94
+1750,Player_1750,Manchester City,LW,85,56.08
+1751,Player_1751,Juventus,LB,93,147.49
+1758,Player_1758,Manchester City,LW,91,76.9
+1764,Player_1764,Bayern Munich,LB,87,98.45
+1771,Player_1771,PSG,CB,93,166.32
+1773,Player_1773,Bayern Munich,GK,86,87.77
+1778,Player_1778,Manchester City,LW,93,125.22
+1782,Player_1782,Bayern Munich,ST,92,170.68
+1785,Player_1785,Juventus,LB,91,168.43
+1786,Player_1786,Juventus,GK,94,119.93
+1791,Player_1791,Liverpool,CB,91,49.75
+1806,Player_1806,Real Madrid,CDM,90,40.06
+1807,Player_1807,Liverpool,ST,94,83.04
+1821,Player_1821,Bayern Munich,LB,86,71.8
+1826,Player_1826,Manchester City,ST,89,124.73
+1828,Player_1828,Juventus,CM,91,5.55
+1833,Player_1833,Juventus,RB,85,33.48
+1843,Player_1843,Real Madrid,ST,85,179.35
+1844,Player_1844,Liverpool,ST,88,3.33
+1845,Player_1845,Juventus,CDM,86,174.19
+1858,Player_1858,Juventus,CM,92,158.7
+1863,Player_1863,PSG,CM,93,27.9
+1871,Player_1871,Manchester City,CB,94,147.56
+1872,Player_1872,Manchester City,LW,88,138.09
+1879,Player_1879,Bayern Munich,RB,87,89.68
+1883,Player_1883,Manchester City,RW,85,49.12
+1890,Player_1890,Real Madrid,CM,90,135.81
+1891,Player_1891,PSG,CM,85,62.51
+1893,Player_1893,PSG,LW,93,124.66
+1902,Player_1902,Bayern Munich,RW,87,143.19
+1904,Player_1904,FC Barcelona,RW,86,74.22
+1907,Player_1907,Manchester City,CB,92,68.5
+1909,Player_1909,Juventus,LW,90,65.42
+1918,Player_1918,PSG,RB,94,127.24
+1924,Player_1924,Juventus,ST,94,39.16
+1925,Player_1925,Juventus,LW,91,92.48
+1928,Player_1928,Real Madrid,RW,94,176.4
+1931,Player_1931,FC Barcelona,CM,94,3.35
+1933,Player_1933,Liverpool,CDM,92,56.41
+1940,Player_1940,Liverpool,ST,86,16.52
+1945,Player_1945,Juventus,LB,87,143.31
+1952,Player_1952,Bayern Munich,ST,91,75.22
+1953,Player_1953,PSG,RW,86,28.51
+1957,Player_1957,Manchester City,CB,94,170.77
+1959,Player_1959,Juventus,RW,87,162.21
+1962,Player_1962,Manchester City,ST,90,116.04
+1966,Player_1966,Bayern Munich,RB,86,95.16
+1968,Player_1968,FC Barcelona,LB,90,153.47
+1969,Player_1969,Juventus,CM,88,74.7
+1970,Player_1970,Bayern Munich,GK,89,126.25
+1971,Player_1971,Real Madrid,CB,85,122.96
+1974,Player_1974,FC Barcelona,ST,86,50.31
+1977,Player_1977,Bayern Munich,CDM,88,150.19
+1999,Player_1999,Manchester City,ST,88,156.07
+2001,Player_2001,Bayern Munich,RB,88,34.81
+2006,Player_2006,FC Barcelona,GK,92,16.98
+2014,Player_2014,FC Barcelona,RB,92,97.97
+2016,Player_2016,FC Barcelona,ST,90,64.93
+2018,Player_2018,Liverpool,GK,86,34.22
+2019,Player_2019,Manchester City,RW,86,168.3
+2022,Player_2022,Real Madrid,ST,85,80.11
+2029,Player_2029,Manchester City,CB,91,53.53
+2036,Player_2036,PSG,GK,86,12.87
+2045,Player_2045,Real Madrid,CDM,86,29.64
+2052,Player_2052,Real Madrid,CM,92,28.66
+2053,Player_2053,Liverpool,CDM,86,85.12
+2056,Player_2056,Real Madrid,RW,88,61.58
+2057,Player_2057,PSG,RB,91,19.08
+2062,Player_2062,Juventus,LW,88,20.18
+2066,Player_2066,Bayern Munich,ST,85,51.56
+2067,Player_2067,FC Barcelona,CM,86,47.67
+2068,Player_2068,Real Madrid,CM,91,33.93
+2072,Player_2072,Manchester City,ST,85,177.93
+2074,Player_2074,PSG,LB,85,65.31
+2075,Player_2075,Bayern Munich,CB,87,120.39
+2079,Player_2079,Juventus,CDM,86,114.32
+2088,Player_2088,Real Madrid,RB,91,43.42
+2089,Player_2089,Bayern Munich,CDM,91,27.86
+2090,Player_2090,Juventus,LW,87,156.57
+2097,Player_2097,Bayern Munich,CDM,86,127.61
+2099,Player_2099,Manchester City,CM,86,159.66
+2103,Player_2103,Bayern Munich,RW,85,1.09
+2116,Player_2116,Juventus,LW,86,154.52
+2124,Player_2124,Manchester City,CM,87,46.18
+2126,Player_2126,Juventus,CDM,90,107.62
+2129,Player_2129,Juventus,LW,89,15.4
+2136,Player_2136,Real Madrid,CM,88,65.24
+2137,Player_2137,FC Barcelona,LB,88,100.21
+2142,Player_2142,Real Madrid,CB,89,57.35
+2148,Player_2148,Real Madrid,GK,91,57.31
+2150,Player_2150,Liverpool,GK,89,71.83
+2156,Player_2156,PSG,GK,93,35.86
+2169,Player_2169,Liverpool,GK,91,16.68
+2170,Player_2170,FC Barcelona,ST,85,37.56
+2176,Player_2176,Manchester City,ST,86,122.49
+2183,Player_2183,PSG,LW,92,151.4
+2184,Player_2184,PSG,ST,90,79.17
+2185,Player_2185,Manchester City,CB,85,43.29
+2190,Player_2190,Bayern Munich,RB,85,69.26
+2193,Player_2193,Real Madrid,RW,89,73.82
+2210,Player_2210,Manchester City,CDM,87,171.3
+2214,Player_2214,Manchester City,GK,94,22.33
+2223,Player_2223,Juventus,CDM,87,37.45
+2235,Player_2235,Juventus,CM,90,123.59
+2244,Player_2244,Manchester City,LW,93,62.3
+2247,Player_2247,Liverpool,LB,86,1.33
+2248,Player_2248,Juventus,CM,85,53.7
+2254,Player_2254,Real Madrid,CM,93,154.1
+2256,Player_2256,FC Barcelona,RB,88,160.86
+2257,Player_2257,Real Madrid,GK,94,9.17
+2265,Player_2265,Manchester City,GK,88,82.59
+2267,Player_2267,Manchester City,GK,91,41.91
+2269,Player_2269,Juventus,CDM,87,156.88
+2274,Player_2274,Juventus,CM,85,176.87
+2279,Player_2279,FC Barcelona,CB,86,28.75
+2281,Player_2281,PSG,LW,89,156.79
+2284,Player_2284,Real Madrid,RW,88,151.72
+2285,Player_2285,Liverpool,ST,92,2.12
+2287,Player_2287,Real Madrid,ST,89,55.18
+2293,Player_2293,Real Madrid,GK,90,116.73
+2297,Player_2297,Manchester City,LB,86,115.62
+2298,Player_2298,Liverpool,CM,85,8.87
+2299,Player_2299,Juventus,CDM,92,142.34
+2300,Player_2300,Bayern Munich,RW,85,40.8
+2301,Player_2301,FC Barcelona,GK,85,48.21
+2313,Player_2313,Liverpool,CM,89,17.74
+2315,Player_2315,Bayern Munich,LW,94,84.76
+2324,Player_2324,FC Barcelona,RW,86,86.51
+2334,Player_2334,Liverpool,GK,89,166.36
+2342,Player_2342,Bayern Munich,ST,93,46.7
+2349,Player_2349,Juventus,RW,86,86.73
+2351,Player_2351,PSG,GK,93,117.74
+2353,Player_2353,Juventus,LW,85,9.27
+2356,Player_2356,Liverpool,ST,89,45.03
+2359,Player_2359,FC Barcelona,LB,91,142.78
+2360,Player_2360,Bayern Munich,RW,94,65.14
+2378,Player_2378,Juventus,CM,94,72.27
+2388,Player_2388,FC Barcelona,ST,94,93.69
+2389,Player_2389,FC Barcelona,CDM,88,77.2
+2391,Player_2391,PSG,CB,88,89.56
+2399,Player_2399,Real Madrid,CM,85,165.3
+2423,Player_2423,Real Madrid,LW,89,44.9
+2427,Player_2427,Liverpool,RB,90,59.21
+2439,Player_2439,Real Madrid,CDM,91,136.14
+2443,Player_2443,FC Barcelona,RW,85,156.33
+2445,Player_2445,Real Madrid,CB,94,75.94
+2451,Player_2451,FC Barcelona,CDM,85,158.47
+2455,Player_2455,Real Madrid,CB,92,152.59
+2476,Player_2476,Liverpool,LW,88,171.76
+2482,Player_2482,Bayern Munich,RW,85,178.11
+2498,Player_2498,Juventus,GK,90,142.33
+2507,Player_2507,Manchester City,CB,94,109.66
+2525,Player_2525,Liverpool,CM,91,3.07
+2530,Player_2530,Real Madrid,LB,93,97.92
+2541,Player_2541,Juventus,GK,86,143.51
+2543,Player_2543,Liverpool,RW,91,20.19
+2548,Player_2548,Juventus,RB,91,102.55
+2550,Player_2550,Real Madrid,CM,91,139.59
+2552,Player_2552,Real Madrid,RB,89,36.21
+2556,Player_2556,PSG,ST,94,174.68
+2560,Player_2560,PSG,ST,89,12.09
+2568,Player_2568,Real Madrid,CB,94,151.75
+2575,Player_2575,Bayern Munich,CDM,91,83.09
+2576,Player_2576,Juventus,LW,86,15.31
+2582,Player_2582,Juventus,LW,85,159.8
+2585,Player_2585,Juventus,ST,91,71.09
+2586,Player_2586,Manchester City,ST,88,147.26
+2591,Player_2591,Juventus,CDM,88,20.46
+2597,Player_2597,Liverpool,RB,87,174.36
+2605,Player_2605,Real Madrid,ST,91,161.32
+2615,Player_2615,Manchester City,ST,85,82.52
+2624,Player_2624,Real Madrid,LW,92,126.12
+2626,Player_2626,Real Madrid,ST,85,84.84
+2631,Player_2631,Liverpool,CB,87,151.38
+2634,Player_2634,FC Barcelona,RB,91,57.63
+2640,Player_2640,Manchester City,RW,87,75.36
+2642,Player_2642,FC Barcelona,GK,92,107.63
+2652,Player_2652,Real Madrid,CM,85,147.0
+2653,Player_2653,Juventus,CB,90,138.47
+2658,Player_2658,Juventus,GK,86,48.24
+2659,Player_2659,FC Barcelona,CB,87,78.4
+2664,Player_2664,Real Madrid,ST,88,69.61
+2666,Player_2666,Manchester City,CM,85,24.7
+2667,Player_2667,Real Madrid,CDM,87,97.58
+2682,Player_2682,PSG,CDM,89,175.38
+2683,Player_2683,Liverpool,GK,93,43.88
+2688,Player_2688,Bayern Munich,LB,91,143.75
+2691,Player_2691,Real Madrid,CM,92,163.69
+2692,Player_2692,Manchester City,RW,86,127.65
+2695,Player_2695,Real Madrid,RW,87,128.37
+2696,Player_2696,Juventus,CB,93,131.87
+2699,Player_2699,Bayern Munich,LW,92,112.23
+2700,Player_2700,FC Barcelona,LB,92,9.81
+2705,Player_2705,Bayern Munich,ST,85,147.77
+2713,Player_2713,PSG,LW,91,78.1
+2719,Player_2719,PSG,CM,93,58.46
+2720,Player_2720,FC Barcelona,CM,87,164.55
+2723,Player_2723,Manchester City,LB,85,60.01
+2724,Player_2724,Juventus,GK,85,175.54
+2726,Player_2726,Bayern Munich,LB,87,68.5
+2733,Player_2733,Real Madrid,CM,86,163.41
+2738,Player_2738,Real Madrid,RB,87,53.46
+2739,Player_2739,Bayern Munich,CDM,87,167.96
+2748,Player_2748,PSG,RB,93,79.02
+2749,Player_2749,FC Barcelona,LB,94,171.0
+2750,Player_2750,Juventus,LW,93,69.27
+2752,Player_2752,Manchester City,RW,90,81.33
+2758,Player_2758,PSG,RW,87,173.3
+2761,Player_2761,Juventus,CM,94,139.63
+2763,Player_2763,Liverpool,ST,94,49.52
+2766,Player_2766,Liverpool,CB,88,20.26
+2772,Player_2772,Liverpool,CM,91,102.28
+2774,Player_2774,Bayern Munich,CDM,86,74.27
+2786,Player_2786,Juventus,RW,93,109.18
+2788,Player_2788,Real Madrid,CB,90,165.95
+2791,Player_2791,PSG,ST,89,46.68
+2793,Player_2793,Manchester City,ST,85,114.1
+2794,Player_2794,PSG,LB,86,179.96
+2798,Player_2798,Manchester City,ST,93,27.01
