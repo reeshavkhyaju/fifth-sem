@@ -1,0 +1,75 @@
+RIP
+
+Configuration of Router Lab-A
+Router>en
+Router#config t
+Enter configuration commands, one per line. End with CNTL/Z.
+Router(config)#int f0/0
+Router(config-if)#ip add 192.168.10.1 255.255.255.0
+Router(config-if)#no shutdown
+Router(config-if)#int s0/1/0
+Router(config-if)#ip add 172.16.20.1 255.255.255.252
+Router(config-if)#no shutdown
+Router(config-if)#exit
+Lab-(config)#hostname Lab-A
+Lab-A(config)#router rip
+Lab-A(config-router)#network 172.16.0.0
+Lab-A(config-router)#network 172.16.0.0
+Lab-A(config-router)#version 2
+Lab-A(config-router)#no auto-summary
+Lab-A(config-router)#end
+Lab-A#show ip protocols
+Lab-A#show ip route
+Lab-A#show run
+ 
+Configuration on router Lab-B
+ 
+Router>enable
+Router#configure terminal
+Router(config)#hostname Lab-B
+Lab-B(config)#int f0/0
+Lab-B(config-if)#ip address 10.10.10.1 255.255.255.0
+Lab-B(config-if)#no shutdown
+Lab-B(config-if)#exit
+Lab-B(config)#interface s0/1/0
+Lab-B(config-if)#ip address 172.16.20.2 255.255.255.252
+Lab-B(config-if)#no shutdown
+Lab-B(config-if)#exit
+Lab-B(config)#interface s0/1/1
+Lab-B(config-if)#ip address 172.16.40.2 255.255.255.252
+Lab-B(config-if)#no shutdown
+Lab-B(config-if)#exit
+Lab-B(config)#router rip
+Lab-B(config-router)#network 172.16.0.0
+Lab-B(config-router)#network 10.0.0.0
+Lab-B(config-router)#version 2
+Lab-B(config-router)#no auto-summary
+Lab-B(config-router)#end
+Lab-B#show ip route
+ 
+Configuration on router Lab-C
+ 
+Router>enable
+Router#configure terminal
+Router(config)#hostname Lab-C
+Lab-C(config)#int f0/0
+Lab-C(config-if)#ip address 192.168.20.1 255.255.255.0
+Lab-C(config-if)#no shutdown
+Lab-C(config-if)#exit
+Lab-C(config)#interface s0/1/1
+Lab-C(config-if)#ip address 172.16.40.2 255.255.255.252
+Lab-C(config-if)#no shutdown
+Lab-C(config-if)#exit
+Lab-C(config)#router rip
+Lab-C(config-router)#network 172.16.0.0
+Lab-C(config-router)#network 192.168.20.0
+Lab-C(config-router)#version 2
+Lab-C(config-router)#no auto-summary
+Lab-C(config-router)#end
+Lab-C#show ip route
+To verify the connectivity between all networks and hosts
+Open command prompt terminal of any host and ping to IP addresses of all network and hosts. For
+example:
+C:\> 192.168.20.1
+C:\> 192.168.10.1
+C:\> 172.16.20.1

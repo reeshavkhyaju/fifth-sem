@@ -1,0 +1,15 @@
+About
+
+This project is part of the Computer Networks lab work. It demonstrates network design and simulation concepts.
+
+Requirements
+
+Cisco Packet Tracer (required to open .pkt files)
+
+How to Use
+
+Install Cisco Packet Tracer
+
+Open the provided .pkt file
+
+Run the simulation
