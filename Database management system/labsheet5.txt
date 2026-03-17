@@ -1,0 +1,24 @@
+paste to:
+https://github.com/datacharmer/test_db
+C:\Program Files\MySQL\MySQL Server 8.0\bin\
+C:\Program Files\MySQL\MySQL Server 8.0\bin\test_db-master
+
+mysql -u root -p
+
+C:\Program Files\MySQL\MySQL Server 8.0\bin\test_db-master>mysql -u root -p < employees.sql
+
+cmd: C:\Program Files\MySQL\MySQL Server 8.0\bin\test_db-master> 
+enter and
+C:\Program Files\MySQL\MySQL Server 8.0\bin\test_db-master>mysql -u root -p < employees.sql
+
+mysql> SELECT COUNT(*) FROM employees;
++----------+
+| COUNT(*) |
++----------+
+|   300024 |
++----------+
+1 row in set (0.04 sec)
+
+mysql>
+
+-- for figure: database -> reverse engineer all next and select that database;

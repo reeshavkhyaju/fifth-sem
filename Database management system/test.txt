@@ -1,0 +1,6 @@
+database schema design
+for a school management system
+student, teacher , admin
+class , subject , year , exams and result
+#New session addressing
+database design

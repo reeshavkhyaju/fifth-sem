@@ -1,0 +1,25 @@
+About
+
+This project contains lab work for the Database Management Systems (DBMS) course.
+It includes SQL queries, database design, and implementation using MySQL.
+
+Requirements
+
+MySQL 8.0 (or later)
+
+How to Use
+
+Install MySQL 8.0
+
+Open MySQL Command Line or MySQL Workbench
+
+Create a database:
+
+CREATE DATABASE your_database_name;
+
+Import or run the provided .sql file:
+
+USE your_database_name;
+SOURCE file_name.sql;
+
+Execute queries and view results
