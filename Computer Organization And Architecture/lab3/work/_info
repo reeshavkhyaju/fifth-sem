@@ -1,0 +1,257 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/intelFPGA/20.1
+Eand_gate
+Z0 w1772200163
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+Z3 dD:/SEMESTER 5 pratical/Computer Organization and architecture
+Z4 8D:/SEMESTER 5 pratical/Computer Organization and architecture/and_gate.vhd
+Z5 FD:/SEMESTER 5 pratical/Computer Organization and architecture/and_gate.vhd
+l0
+L4 1
+VCKb`CCn4Wlh:]BRAz;QfF2
+!s100 EhlXN^?HLm@_a0`Wm<XMN2
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1772200560
+!i10b 1
+Z8 !s108 1772200560.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SEMESTER 5 pratical/Computer Organization and architecture/and_gate.vhd|
+Z10 !s107 D:/SEMESTER 5 pratical/Computer Organization and architecture/and_gate.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 8 and_gate 0 22 CKb`CCn4Wlh:]BRAz;QfF2
+!i122 1
+l13
+Z13 L12 4
+V99eEHCLcR2abFdD<c_V5j0
+!s100 _6@2@=JZe`:TfaSICUI5b0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Enand_gate
+Z14 w1772200513
+R1
+R2
+!i122 4
+R3
+Z15 8D:/SEMESTER 5 pratical/Computer Organization and architecture/nand_gate.vhd
+Z16 FD:/SEMESTER 5 pratical/Computer Organization and architecture/nand_gate.vhd
+l0
+L4 1
+VB3M[oAJ4GVCfP<GW_WkQc3
+!s100 5`;lWVF3HS5h7=8oE@eEB1
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SEMESTER 5 pratical/Computer Organization and architecture/nand_gate.vhd|
+Z18 !s107 D:/SEMESTER 5 pratical/Computer Organization and architecture/nand_gate.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 9 nand_gate 0 22 B3M[oAJ4GVCfP<GW_WkQc3
+!i122 4
+l13
+R13
+V3^n^FhcBZ=bi0YJNfXOT73
+!s100 i0h?b0Ei1@?MS5@Z;g?gj0
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Enor_gate
+Z19 w1772200556
+R1
+R2
+!i122 5
+R3
+Z20 8D:/SEMESTER 5 pratical/Computer Organization and architecture/nor_gate.vhd
+Z21 FD:/SEMESTER 5 pratical/Computer Organization and architecture/nor_gate.vhd
+l0
+L4 1
+VIUJK7W3FZ5PlkSO33nh;^2
+!s100 `>RHP^X<oLV9hDMIDf]`h2
+R6
+32
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SEMESTER 5 pratical/Computer Organization and architecture/nor_gate.vhd|
+Z23 !s107 D:/SEMESTER 5 pratical/Computer Organization and architecture/nor_gate.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 8 nor_gate 0 22 IUJK7W3FZ5PlkSO33nh;^2
+!i122 5
+l13
+R13
+VdMV;dIbo<MgY`NIbC7c[N2
+!s100 GFh`LSjVS7=ojhI6XAiC:2
+R6
+32
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Enot_gate
+Z24 w1772200395
+R1
+R2
+!i122 3
+R3
+Z25 8D:/SEMESTER 5 pratical/Computer Organization and architecture/not_gate.vhd
+Z26 FD:/SEMESTER 5 pratical/Computer Organization and architecture/not_gate.vhd
+l0
+L4 1
+Vz;^NM6SJ5S<EVflJ<GI_72
+!s100 IAM5EVb<70;gfI_iD5mj71
+R6
+32
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SEMESTER 5 pratical/Computer Organization and architecture/not_gate.vhd|
+Z28 !s107 D:/SEMESTER 5 pratical/Computer Organization and architecture/not_gate.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 8 not_gate 0 22 z;^NM6SJ5S<EVflJ<GI_72
+!i122 3
+l12
+L11 4
+V<^_5>^lEG7Tan;mjhkSfV2
+!s100 <fCXm?iIXGP0gSa2^b5[m1
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Eor_gate
+Z29 w1772200377
+R1
+R2
+!i122 2
+R3
+Z30 8D:/SEMESTER 5 pratical/Computer Organization and architecture/or_gate.vhd
+Z31 FD:/SEMESTER 5 pratical/Computer Organization and architecture/or_gate.vhd
+l0
+L4 1
+VVfkPJeh3_8@DJS7c<27_:0
+!s100 U?GG:>hI>G4To6QUg5CnH0
+R6
+32
+R7
+!i10b 1
+R8
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SEMESTER 5 pratical/Computer Organization and architecture/or_gate.vhd|
+Z33 !s107 D:/SEMESTER 5 pratical/Computer Organization and architecture/or_gate.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 7 or_gate 0 22 VfkPJeh3_8@DJS7c<27_:0
+!i122 2
+l13
+R13
+VeJcUKWLG9NJ6NOL:zae9I1
+!s100 ghM0mH=;Yae[=9>Di:MLM0
+R6
+32
+R7
+!i10b 1
+R8
+R32
+R33
+!i113 1
+R11
+R12
+Exor_gate
+Z34 w1772200430
+R1
+R2
+!i122 6
+R3
+Z35 8D:/SEMESTER 5 pratical/Computer Organization and architecture/xor_gate.vhd
+Z36 FD:/SEMESTER 5 pratical/Computer Organization and architecture/xor_gate.vhd
+l0
+L4 1
+Vii;VG2BoNkzzRb]lfYd[X2
+!s100 [<CMlg3H_97n9>?lAaa520
+R6
+32
+Z37 !s110 1772200561
+!i10b 1
+R8
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SEMESTER 5 pratical/Computer Organization and architecture/xor_gate.vhd|
+!s107 D:/SEMESTER 5 pratical/Computer Organization and architecture/xor_gate.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 8 xor_gate 0 22 ii;VG2BoNkzzRb]lfYd[X2
+!i122 6
+l13
+R13
+Ve52Q<dka>:7@@:76QhHl]1
+!s100 nfc6Azk5N]7e6@J`RT9h^2
+R6
+32
+R37
+!i10b 1
+R8
+R38
+Z39 !s107 D:/SEMESTER 5 pratical/Computer Organization and architecture/xor_gate.vhd|
+!i113 1
+R11
+R12

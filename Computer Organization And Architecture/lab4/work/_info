@@ -1,0 +1,175 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/intelFPGA/20.1
+Efull_adder
+Z0 w1772200946
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+Z3 dD:/SEMESTER 5 pratical/Computer Organization and architecture
+Z4 8D:/SEMESTER 5 pratical/Computer Organization and architecture/full_adder.vhd
+Z5 FD:/SEMESTER 5 pratical/Computer Organization and architecture/full_adder.vhd
+l0
+L5 1
+VZCWjKOMW`eeG0E_W;5z]]3
+!s100 8ecRe5`LgMODA_n7KJ7G?3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1772201026
+!i10b 1
+Z8 !s108 1772201026.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SEMESTER 5 pratical/Computer Organization and architecture/full_adder.vhd|
+Z10 !s107 D:/SEMESTER 5 pratical/Computer Organization and architecture/full_adder.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 10 full_adder 0 22 ZCWjKOMW`eeG0E_W;5z]]3
+!i122 1
+l15
+Z13 L14 5
+V;E]`]We0_MGI>NX04>En>1
+!s100 ;:Yc4a7[zoU1?=mc?hI<B3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Efull_subtractor
+Z14 w1772201021
+R1
+R2
+!i122 3
+R3
+Z15 8D:/SEMESTER 5 pratical/Computer Organization and architecture/full_subtractor.vhd
+Z16 FD:/SEMESTER 5 pratical/Computer Organization and architecture/full_subtractor.vhd
+l0
+L5 1
+V;9Pf=I@bGabj9I_jC?ZQD0
+!s100 `SH5nh7VS4P=F^^aEYWDK2
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SEMESTER 5 pratical/Computer Organization and architecture/full_subtractor.vhd|
+!s107 D:/SEMESTER 5 pratical/Computer Organization and architecture/full_subtractor.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 15 full_subtractor 0 22 ;9Pf=I@bGabj9I_jC?ZQD0
+!i122 3
+l15
+L14 6
+VHK[6zn=BH:oGgJk6nnAd51
+!s100 XhDI[iCeLfVE1jl?H0;oD2
+R6
+32
+R7
+!i10b 1
+R8
+R17
+Z18 !s107 D:/SEMESTER 5 pratical/Computer Organization and architecture/full_subtractor.vhd|
+!i113 1
+R11
+R12
+Ehalf_adder
+Z19 w1772200910
+R1
+R2
+!i122 0
+R3
+Z20 8D:/SEMESTER 5 pratical/Computer Organization and architecture/half_adder.vhd
+Z21 FD:/SEMESTER 5 pratical/Computer Organization and architecture/half_adder.vhd
+l0
+L5 1
+VFg=WSL2UXhb4aJAbKo?7b1
+!s100 J1n[ob12J>g^Kk:aE5>;F3
+R6
+32
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SEMESTER 5 pratical/Computer Organization and architecture/half_adder.vhd|
+Z23 !s107 D:/SEMESTER 5 pratical/Computer Organization and architecture/half_adder.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 10 half_adder 0 22 Fg=WSL2UXhb4aJAbKo?7b1
+!i122 0
+l15
+R13
+VMM1ZR^e5ncXjMa1CV;^C52
+!s100 XfD6hYYVoN:agE@oIKFK>0
+R6
+32
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Ehalf_subtractor
+Z24 w1772200978
+R1
+R2
+!i122 2
+R3
+Z25 8D:/SEMESTER 5 pratical/Computer Organization and architecture/half_subtractor.vhd
+Z26 FD:/SEMESTER 5 pratical/Computer Organization and architecture/half_subtractor.vhd
+l0
+L5 1
+VXa@i7U2M?m9BKTb_I@OdX2
+!s100 aDH9R0Te@7V8NWJAYNV6o1
+R6
+32
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SEMESTER 5 pratical/Computer Organization and architecture/half_subtractor.vhd|
+Z28 !s107 D:/SEMESTER 5 pratical/Computer Organization and architecture/half_subtractor.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 15 half_subtractor 0 22 Xa@i7U2M?m9BKTb_I@OdX2
+!i122 2
+l15
+R13
+VAX:`miF2@0SOjgzz_AgM60
+!s100 JlRfiG6glF<jFca_5coXC3
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12

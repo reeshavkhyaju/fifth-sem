@@ -1,0 +1,21 @@
+About
+
+This project contains lab work for the Computer Organization and Architecture (COA) course.
+It includes digital design and simulation files implemented and tested using ModelSim.
+
+Requirements
+
+ModelSim – Intel FPGA Starter Edition
+(vsim 2020.1, Quartus Prime 20.1)
+
+How to Use
+
+Install ModelSim – Intel FPGA Starter Edition
+
+Open the project files in ModelSim
+
+Compile the design
+
+Run the simulation using vsim
+
+View the output in the waveform window
